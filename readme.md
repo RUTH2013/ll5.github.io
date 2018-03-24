@@ -1,10 +1,10 @@
-### 关于我 About
+### **关于我**  *About*
     1.姓名：林鸣鹤
     2.手机/微信：15985817766
     3.邮箱：284516433@qq.com
     4.出生年月：1987-10
     5.纯前端经验：5年
-### 技术栈 Technology stack：
+### **技术栈**  *Technology stack*
     1.熟悉 JavaScript（ES5,6,7）
     2.熟悉 Vue系列（vue,vuex,vue-router）
     3.熟悉 webpack, html,css
@@ -13,7 +13,7 @@
     6.了解java,c,mongoDB,react,react-native,redux,sass,less.等等
     7.对AI，ML有极大的兴趣，目前对tensorflow,numpy,matplotlib,pandas均有初步入门，了解基本CNN算法
     *.目前仅考虑以 AI/ML 技术为主的公司
-### 工作经验 Experience
+### **工作经验**  *Experience*
 #### 一，厦门特沃兹网络科技有限公司
 * 公司简介：混合型的创业公司，既有自己的产品，也有做外包
 * 技术类型：前端Js，vue，目前正在筹划react-native, 后台java, go，node，按项目实际需求来确定最合适技术。
