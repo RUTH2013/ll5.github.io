@@ -11,7 +11,8 @@
     4.了解 golang,python,nodejs(koa),c#，并均有项目经验(非demo)
     5.了解 sql 能手写大部分sql语句
     6.了解java,c,mongoDB,react,react-native,redux,sass,less.等等
-    7.对AI,ML,DL较感兴趣，目前对tensorflow,numpy,matplotlib,pandas均有初步入门，了解基本CNN算法
+    7.对AI,ML,DL较感兴趣，目前对tensorflow,numpy,matplotlib,pandas均有初步入门，了解基本CNN算法
+    
 ### **工作经验**  *Experience*
 #### 一，厦门特沃兹网络科技有限公司
 * 公司简介：混合型的创业公司，既有自己的产品，也有做外包
