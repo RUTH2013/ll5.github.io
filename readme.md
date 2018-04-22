@@ -4,7 +4,7 @@
     3.邮箱：284516433@qq.com
     4.出生年月：1987-10
     5.纯前端经验：5年  
-  
+
 ### **技术栈**  *Technology stack*
     1.熟悉 JavaScript（ES5,6,7）
     2.熟悉 Vue系列（vue,vuex,vue-router）
@@ -13,7 +13,7 @@
     5.了解 sql 能手写大部分sql语句
     6.了解java,c,mongoDB,react,react-native,redux,sass,less.等等
     7.对AI,ML,DL较感兴趣，目前对tensorflow,numpy,matplotlib,pandas均有初步入门，了解基本CNN算法
-    
+  
 ### **工作经验**  *Experience*  
 
 #### 一，厦门特沃兹网络科技有限公司
