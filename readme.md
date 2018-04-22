@@ -1,7 +1,3 @@
-title: About
-layout: page
-group: navigation
-
 ### **关于我**  *About*
     1.姓名：林鸣鹤
     2.手机/微信：15985817766
