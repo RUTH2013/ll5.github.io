@@ -5,12 +5,12 @@
     4.出生年月：1987-10 
 
 ### **技术栈**
-    1.熟悉 JavaScript(ES5,6,7)
-    2.熟悉 Vue系列(vue,vuex,vue-router)
+    1.熟悉 JavaScript(ES5, 6, 7)
+    2.熟悉 Vue 系列(vue, vuex, vue-router)
     3.熟悉 webpack, html,css
-    4.了解 golang,python,nodejs(koa),c#,除python外,均有非demo项目经验
+    4.了解 golang, python, nodejs(koa), c#,除 python 外,均有非 demo 项目经验
     5.了解 sql 能手写大部分 sql 语句
-    6.对 react,ai(人工智能) 比较有兴趣,不过无项目经验
+    6.对 react, react-native, flutter, ai (人工智能) 比较有兴趣,不过无项目经验
   
 ### **工作经验**
 
