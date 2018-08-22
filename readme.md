@@ -38,7 +38,7 @@
 
 > 该项目前端比较简单,没碰到比较大的难题,非要算一个的话,就是找一个好用的 纯vue 的富文本编辑器(最终用 [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)).
 
-> 由于该项目后端有我一个人完成,并且是我第一个 Go 的项目,所以碰到的问题还是比较多的,除了基础语法和技巧外,这个项目还碰到过几个映像比较深刻的问题,1.图形验证码问题,试了好几种图形验证码,最终觉得还是[dchest/captcha](https://github.com/dchest/captcha) 最好用,其他的多多少少都有一点点坑.而 dchest/captcha其实也不是很完美,缺少一个生成 base64 的 api , 我自己私下其实已经实现了 toBase64() 了,不过由于种种原因,没有提pr.
+> 由于该项目后端有我一个人完成,并且是我第一个 Go 的项目,所以碰到的问题还是比较多的,除了基础语法和技巧外,这个项目还碰到过几个映像比较深刻的问题,1.图形验证码问题,试了好几种图形验证码,最终觉得还是[dchest/captcha](https://github.com/dchest/captcha) 最好用,其他的多多少少都有一点点坑.而 dchest/captcha其实我感觉应该再多一个生成 base64 字符串的 api , 我把项目克隆下来实现了并提交pr,不过被作者拒绝了。
 
 > 另一个是鉴权问题,这个虽然在 koa 的项目里面有用过 koa-jwt 不过在 go 下面,实现起来还是有一定差距的,相当于自己动手实现了一个 jwt ,也算是趟了一些坑.
 
@@ -78,9 +78,24 @@
 
 > 在开源 miment 的过程中，由于没有开源经验，很多开源代码该有的东西，我的 miment 都没有，好在社区有几个对 miment 感兴趣的童鞋一起维护，虽然最后 miment 被另一个同类的项目(dayjs)远远的甩在了后面，不过通过这次的经历，让我对开源有了一个新的认识，也算是收获颇丰。
 
-##### 8. 白关 袜子在线定制小程序 (暂未上线),这个项目的核心需求是用 小程序的canvas 完成一个袜子图案在线设计的功能,
+##### 8. 白关 袜子在线定制小程序 (暂未上线),这个项目的核心需求是用 小程序的canvas 完成一个袜子图案在线设计的功能。
+
+> 这个项目，我直接写了一篇总结 [canvas菜鸟基于小程序实现图案在线定制功能](https://github.com/noahlam/articles/blob/master/canvas%E8%8F%9C%E9%B8%9F%E5%9F%BA%E4%BA%8E%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E5%9B%BE%E6%A1%88%E5%9C%A8%E7%BA%BF%E5%AE%9A%E5%88%B6%E5%8A%9F%E8%83%BD.md)
   
+##### 9. 医药交易平台框架页 这是一个类 ERP 公司要求基于 vue 的 SPA 实现一个通用的框架页，该框架页将来会用到 40+ 个系统中，要求高度可配置，多页签，可脚手架安装等。该项目由于是内部项目，无法公开。
+
+> 同样，我也对此次经历做了一个总结 [记一次基于vue的spa多页签实践经验](https://github.com/noahlam/articles/blob/master/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%9F%BA%E4%BA%8Evue%E7%9A%84spa%E5%A4%9A%E9%A1%B5%E7%AD%BE%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C.md)
+
+> 我把跟业务逻辑有关的代码去掉，得到一个 [vue-multi-tab](https://github.com/noahlam/vue-multi-tab) 一套基于 vue 和 element-ui , 实现了 tab-router (一个基于 tab 的路由) 的 单页面, 多页签 应用程序
+
+> 另外还顺手写了个用于快速搭建项目的脚手架 [tab-cli](https://github.com/noahlam/tab-cli)
+
+##### 10. 株洲商务局报表系统 同样是个内部项目，核心需求是 用户导入一些 excel 表格，然后在线编辑(添加，删除，合并，计算等等), 最后选择几个列的数据，用 echart 生成一个可视化的报表.
+
+> 这个项目，也是直接总结了一篇博客 [js-xlsx + handsontable + echarts 实现在前端导入excel数据并生成echart报表](https://github.com/noahlam/articles/blob/master/js-xlsx%20%2B%20handsontable%20%2B%20echarts.md)
+
 #### 二,厦门维道软件技术有限公司
+
 * 公司简介：纯外包公司,专门做厦门及周边的外包项目.
 * 技术类型：全栈JavaScript（nodejs,vue,react-native,mongo,mysql）.
 * 公司规模：10人左右.
